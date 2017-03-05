@@ -1,0 +1,1 @@
+# Spring i18n teszt projekt
